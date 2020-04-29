@@ -21,6 +21,7 @@
 "Filename": "檔案名稱",
 "Language": "辨識語言",
 "cmn-Hant-TW": "中文 (台灣)(cmn-Hant-TW)",
+"yue-Hant-HK": "粵語 (香港)(yue-Hant-HK)",
 "cmn-Hans-CN": "普通话 (中国大陆)(cmn-Hans-CN)",
 "en-US": "英文(en-US)",
 "ja": "日文(ja)",
